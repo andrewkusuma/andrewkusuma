@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SawitPro<br>🤝 I’m looking to collaborate on Paired programming<br>🌱 I’m currently learning Swift Programming <br>💬 Ask me about JS<br>⚡ Fun fact" I code today, but I might not remember it tomorrow!
+🔭 I’m currently working at SawitPRO<br>🤝 I’m looking to collaborate on Paired programming<br>🌱 I’m currently learning Swift Programming <br>💬 Ask me about JS<br>⚡ Fun fact" I code today, but I might not remember it tomorrow!
 
 
 ## 🌐 Socials:
