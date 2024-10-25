@@ -1,18 +1,50 @@
-# 💫 About Me:
-🔭 I’m currently working at SawitPRO<br>🤝 I’m looking to collaborate on Paired programming<br>🌱 I’m currently learning Swift Programming <br>💬 Ask me about JS<br>⚡ Fun fact" I code today, but I might not remember it tomorrow!
+# Hi there, I'm Andrew BudiKusuma! 👋
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrew.budikusuma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewbudikusuma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewbudikusuma) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andrewbudikusuma&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrewbudikusuma&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewbudikusuma&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub realm, where the code is strong and the coffee is stronger. ☕
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andrewbudikusuma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 😄 About Me
+
+- 🔭 I’m currently working on: "trying to find the perfect balance between `console.log` and `debugger`"
+- 🌱 Currently learning: How to actually finish a side project
+- 👯 Looking to collaborate on: Creating the next big thing… or a meme-worthy 404 page
+- 🤔 Fun fact: If you run `rm -rf /` I might cry, but we can still be friends
+
+---
+
+## 🚀 My Skills
+
+> JavaScript, but only on days that end in ‘Y’.  
+> CSS? More like “Constantly Struggling Syndrome.”  
+> React: I react quickly to bugs 🐛  
+> TypeScript: 50% of the time, it works every time!  
+> Next.js: For when I need things done yesterday
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewbudikusuma&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+## 📊 My Programming Humor
+
+**"Why do programmers prefer dark mode?"**  
+Because light attracts bugs. 🐞
+
+**What did the JavaScript developer say to their function?**  
+"I’ll call you, maybe!"
+
+---
+
+## 📫 How to Reach Me
+
+- 💌 Email: `andrew.budikusuma@gmail.com`
+
+---
+
+> Made with ❤️, coffee, and way too much procrastination.
